@@ -2,7 +2,7 @@
 
 /*
 * @Author: Gustavo de Basica
-*
+*@Date:07/11/2014
 */
 
 $image = new Imagick('photo.jpg');

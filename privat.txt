@@ -1,0 +1,1 @@
+Aquest fitxer sera ignorat per el repositori git.

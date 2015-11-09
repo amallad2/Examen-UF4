@@ -1,3 +1,8 @@
+/*
+* @Date Creation: 07/11/2014
+* 
+* 
+*/
 <?php
 include("resizeimage.php");
 

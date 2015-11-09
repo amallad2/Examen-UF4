@@ -1,6 +1,6 @@
 <?php
 /*
-* @Author: Victor Moreno
+* @Author: Victor Moreno       
 *
 */
 $image = new Imagick('photo.jpg');

@@ -11,4 +11,5 @@ $image->resizeImage(640, 480, imagick::FILTER_LANCZOS, 0.9);
 $image = new Imagick('photo2.jpg');
 //Comentario de Victor Moreno!!!
 
+//Comentario de Juan Montemayor
 ?>

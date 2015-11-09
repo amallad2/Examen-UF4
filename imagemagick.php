@@ -12,4 +12,6 @@ $image = new Imagick('photo2.jpg');
 //Comentario de Victor Moreno!!!
 
 //Comentario de Juan Montemayor
+
+//Comentario de Gerard Romero
 ?>
